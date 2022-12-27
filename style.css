@@ -1,0 +1,267 @@
+body{
+    background-color:#662bff;
+    margin:0px;
+    padding:0px;
+} .container{
+    height:50px;
+    height: 100px;
+    background-color:#000000;
+} .CHILD{
+    background-color:#6ab6ff;
+    width:980px;
+    height:20px;
+} .BN{
+    width:50px;
+    height: 100px;
+    background-color:blue;
+    position: bottom;
+} .one{
+    text-align:top-left;
+    background-color:#000000;
+    color: #662bff;
+    border-radius: 30px;
+} .text{
+    position:top;
+    background-color:black;
+    color: orange;
+    border-radius:10px;
+} .mnm{
+    background-color:0000;
+    color:red;
+    font-size:18px;
+    left-:20px;
+} .abt{
+   background-color:#ff9315;
+   color:black;
+   font:FAMILY;
+   border-radius:1px;
+   margin: 5px;
+   font-size:30px;
+   
+     
+   
+} img{
+    width: 100px;
+    height: 150px;
+    align:center;
+} .p-1{
+    font-size:50px;
+    color: black;
+    margin: 10px;
+    padding: 5px;
+    
+} .abb{
+    background-color:#ff5e00;
+    color:black;
+    font:family;
+    border-radius:1px;
+    margin:5px;
+    font-size:25px;
+} hr{
+  background-xolor:black;
+    height: 5px;
+    color:black;
+} .HERO-SELECTION{
+    text-align:center;
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+   margin-right:20px;
+   margin-left:180px;
+   margin-top:50px;
+   border-radius: 35px;
+} .ipt{
+    margin:330px;
+    height:50px;
+    width:590px;
+    margin-right:20px;
+    margin-left:200px;
+    margin-top: 1%;
+    margin-top:0px;
+    
+    font-size:30px;
+    border-radius: 50px;
+    color:black;
+    background-color:#80c1ff;
+} footer{
+    text-align:center;
+    font-size:15px;
+    background-color:black;
+    margin:bottom: 0px;
+} .upt{
+    margin:300;
+    height:50px;
+    width:590px;
+    margin-right:20px;
+    background-color:black;
+    
+    
+    
+} .p-1{
+    text-align:center;
+    color: black;
+    font:arial;
+    margin-bottom: 100px;
+    
+    
+} .p-2{
+    text-align:center;
+    font-size:50px;
+    background-color:black;
+    color:#662bff;
+} .p-3{
+    text-align:center;
+    font-size:50px;
+    background-color:black;
+    color:#662bff;
+} .img-2{
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:180px;
+    margin-top:50px;
+    border-radius: 35px;
+} .p-4{
+    text-align:center;
+    font-size:35px;
+    background-color:black;
+    color:#662bff;
+} .p-5{
+    text-align:center;
+    font-size:35px;
+    background-color:black;
+    color:#662bff;
+} .p-7{
+    text-align:center;
+    font-size:50px;
+    background-color:black;
+    color:#662bff;
+} .img-3{
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:180px;
+    margin-top:50px;
+    border-radius: 35px;
+} .img-4{
+    width: 600px;
+    height: 1100px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:180px;
+    margin-top:50px;
+    border-radius: 35px;
+} .p-6{
+    text-align:center;
+    font-size:50px;
+    background-color:black;
+    color:#662bff;
+} .p-8{
+    text-align:center;
+    font-size:35px;
+    background-color:black;
+    color:#662bff;
+} .p-9{
+   text-align:center;
+    font-size:35px; 
+    background-color:black;
+    color:#662bff;
+} hr{
+    color:black;
+} .LOGO{
+     width: 400px;
+    height: 400px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:280px;
+    margin-top:50px;
+    border-radius: 200px;
+} .p-10{
+    text-align:center;
+    font-size:35px; 
+    background-color:black;
+    color:#662bff;
+} .p-11{
+    text-align:center;
+    font-size:35px;
+    background-color:black; 
+    color:#662bff;
+} .p-12{
+     text-align:center;
+    font-size:35px; 
+    background-color:black;
+    color:#662bff;
+} .p-13{
+      text-align:center;
+    font-size:50px; 
+    color:black;
+    background-color:#8540ff;
+    font-family:arial;
+} .background{
+  opacity:60%;
+   width: 900px;
+    height: 500px;
+    margin:330px;
+    margin-right:20px;
+    margin-left:40px;
+    margin-top:50px;
+    border-radius: 35px;
+} .p-14{
+    text-align:center;
+    font-size:60px;
+    margin-top:3px
+    
+} .p-15{
+    text-align:center;
+    font-size:60px;
+   background-color:black;
+   color: red;
+} .btnlike{
+    margin: 330px;
+    margin-right:20px;
+    margin-left:450px;
+    margin-top:5px;
+    height: 15px;
+    width: 45px;
+    
+} .LIKEbtn{
+    height: 15px;
+    width: 42px;
+    margin:30;
+    margin-left:0px;
+    margin-right:65px;
+} .ipt-1{
+    background-color:#80acff;
+    margin-right:315px;
+    margin: 230px;
+    width: 500px;
+    height: 110px;
+    margin-top:10px;
+    border-radius: 50px;
+    font-size:50px;
+} .BLR{
+    width: 100px;
+    height: 200px;
+    background-color:red;
+} .jss{
+   background-color:yellow;
+   width:100px;
+   height:100px;
+   position:center;
+   
+} .p-16{
+    text-align:center;
+    font-size:35px;
+    background-color:black;
+    color:#662bff;
+} .ipt-1{
+    babackground-color:red;
+    width:100px
+    height:50px;
+    color:purple;
+    position:center;
+}
+
+
